@@ -1,0 +1,37 @@
+template: "online-cv"
+skin: "red"
+basic_info:
+
+  # Personal Info
+  person:
+  fullname: "Erick Jiménez Aguilar"
+  tagline: 'Programmer / Student'
+  avatar: profile.png
+  ID: 112800108
+  
+  # Sidebar links
+  email: ejimenez267@gmail.com
+  phone: 506 7203 7068
+  linkedIn: erick-jiménez-aguilar
+  github: Rainfire267
+  
+  
+  
+  languages:
+    -idiom: Spanish
+    level: native
+   
+    -idiom: English
+    level: 'B2+' 
+  
+  Hobbies:
+    -Hiking
+    -Reading
+    -Share tiem with family and friends
+    -Play video games
+    -Create plastic robot models
+    
+ Education: [UIA, Software Engineering (Currently studyng)]
+ Experiences: [Coopeservidores R.L.]
+ Projects: [Currently working with a group of top engineers in the future of the turism of C.R.]
+ Skills: [Responsible, Focused]  
